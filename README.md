@@ -35,3 +35,33 @@ This project is a **web-based intelligent system** that recommends the most suit
 ├── fertilizer_standardscalar.pkl# StandardScaler for fertilizer model </br>
 ├── fertilizer_minmaxscalar.pkl # MinMaxScaler for fertilizer model </br>
 └── README.md # Project documentation </br>
+
+
+
+## 🏗️ How to Run Locally
+
+1. **Clone the repository**
+bash
+git clone [https://github.com/your-username/crop-fertilizer-recommendation.git](https://github.com/shuvadippal08/Crop_and_Fertilization_RS)
+cd crop-fertilizer-recommendation
+
+
+2. **Install Dependencies**
+3.  **Run The Flask App**
+4.  **Open in Browser**
+
+##📊 ML Model Details
+<b>Crop Recommendation Model</b><br>
+Input Features: N, P, K, Temperature, Humidity, pH, Rainfall<br>
+
+Algorithm Used: [Specify model, e.g., Random Forest]<br>
+
+Preprocessing: MinMaxScaler → StandardScaler</br>
+Accuracy -> 99.3% <br/>
+<b>Fertilizer Recommendation Model</b>
+Input Features: N, P, K, Temperature, Humidity, Moisture, Soil Type, Crop Type</br>
+
+Algorithm Used: [Specify model, e.g., Random Forest Classifier ]</br>
+
+Preprocessing: MinMaxScaler → StandardScaler</br>
+Accuracy -> 95%
