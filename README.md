@@ -22,16 +22,16 @@ This project is a **web-based intelligent system** that recommends the most suit
 
 ---
 
-## 🗂️ Project Structure
-├── Crop_RS.ipynb # Jupyter notebook for crop model training
-├── fertilizer.ipynb # Jupyter notebook for fertilizer model training
-├── app.py # Flask backend script
-├── templates/
-│ └── index.html # Web interface for user input
-├── model.pkl # Trained crop model
-├── standardscalar.pkl # StandardScaler for crop model
-├── minmaxscalar.pkl # MinMaxScaler for crop model
-├── fertilizer_model.pkl # Trained fertilizer model
-├── fertilizer_standardscalar.pkl# StandardScaler for fertilizer model
-├── fertilizer_minmaxscalar.pkl # MinMaxScaler for fertilizer model
-└── README.md # Project documentation
+## 🗂️ Project Structure </br>
+├── Crop_RS.ipynb # Jupyter notebook for crop model training </br>
+├── fertilizer.ipynb # Jupyter notebook for fertilizer model training </br>
+├── app.py # Flask backend script </br>
+├── templates/ </br>
+│ └── index.html # Web interface for user input </br>
+├── model.pkl # Trained crop model </br>
+├── standardscalar.pkl # StandardScaler for crop model </br>
+├── minmaxscalar.pkl # MinMaxScaler for crop model </br>
+├── fertilizer_model.pkl # Trained fertilizer model </br>
+├── fertilizer_standardscalar.pkl# StandardScaler for fertilizer model </br>
+├── fertilizer_minmaxscalar.pkl # MinMaxScaler for fertilizer model </br>
+└── README.md # Project documentation </br>
