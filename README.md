@@ -58,10 +58,14 @@ Algorithm Used: [Specify model, e.g., Random Forest]<br>
 
 Preprocessing: MinMaxScaler → StandardScaler</br>
 Accuracy -> 99.3% <br/>
-<b>Fertilizer Recommendation Model</b>
+<b>Fertilizer Recommendation Model</b></br>
 Input Features: N, P, K, Temperature, Humidity, Moisture, Soil Type, Crop Type</br>
 
 Algorithm Used: [Specify model, e.g., Random Forest Classifier ]</br>
 
 Preprocessing: MinMaxScaler → StandardScaler</br>
 Accuracy -> 95%
+## 📸 Screenshots
+<img width="1919" height="1040" alt="Screenshot 2025-07-16 101041" src="https://github.com/user-attachments/assets/7560b62c-2655-41ae-909e-bde1668a4db1" />
+<img width="1919" height="1039" alt="Screenshot 2025-07-16 101027" src="https://github.com/user-attachments/assets/950041f1-f7b5-4301-9608-8aac14506940" />
+<img width="1910" height="1028" alt="Screenshot 2025-07-16 101011" src="https://github.com/user-attachments/assets/b36680ed-c531-44ee-ae84-9f68c9340589" />
